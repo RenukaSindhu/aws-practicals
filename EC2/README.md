@@ -6,3 +6,6 @@
 - [Practical 4: User Data & Load Balancer](./p4.md)
 - [Practical 5: Auto Scaling](./p5.md)
 - [Practical 6: Blue-Green Deployment](./p6.md)
+
+## PROJECT
+- [Blue-Green Deployment Project](./p6.md)
